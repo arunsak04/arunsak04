@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Arun Kumar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Full Stack Development
-- 💞️ I’m looking for a Job in Java Developer 
-- 📫 You Can Reach me Through Linkedin(Arun Kumar)(https://www.linkedin.com/in/arun-kumar-3b8353192/).
+- 👋 Hi, I'm Arun Kumar.
+- 👀 I'm passionate about Software Development.
+- 🌱 Currently, I'm refining my skills as a Software Developer.
+- 💼 Actively seeking opportunities as a Java Developer.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arun-kumar-3b8353192/).
+
+I thrive on crafting efficient solutions with Java and embracing new challenges in the software realm. Let's collaborate and innovate together!
+
 
 <!---
 arunsak04/arunsak04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
